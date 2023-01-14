@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Maven
+/target
+
+# Node
+/node_modules
+
