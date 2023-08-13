@@ -17,22 +17,22 @@ My typical prologue reads:
 Highlights,  _always_ mastering, _always_ expanding...
 
 <p style="text-align:center">
-<img src="https://gitlab.com/timothy.stone/timothy.stone/-/raw/master/src/angular-icon.png" title="AngularJS and Angular" alt="AngularJS and Angular">
-&nbsp;<img src="https://gitlab.com/timothy.stone/timothy.stone/-/raw/master/src/apache-icon.png" title="Apache HTTPD" alt="Apache HTTPD">
-&nbsp;<img src="https://gitlab.com/timothy.stone/timothy.stone/-/raw/master/src/git-icon.png" title="Git" alt="Git">
-&nbsp;<img src="https://gitlab.com/timothy.stone/timothy.stone/-/raw/master/src/gitlab-icon.png" title="GitLab and GitLab CI" alt="GitLab and GitLab CI">
-&nbsp;<img src="https://gitlab.com/timothy.stone/timothy.stone/-/raw/master/src/hibernate-icon.png" title="Hibernate" alt="Hibernate">
-&nbsp;<img src="https://gitlab.com/timothy.stone/timothy.stone/-/raw/master/src/intellij-icon.png" title="IntelliJ" alt="IntelliJ">
-&nbsp;<img src="https://gitlab.com/timothy.stone/timothy.stone/-/raw/master/src/java-icon.png" title="Java" alt="Java">
-&nbsp;<img src="https://gitlab.com/timothy.stone/timothy.stone/-/raw/master/src/javascript-icon.png" title="JavaScript" alt="JavaScript"><br>
-&nbsp;<img src="https://gitlab.com/timothy.stone/timothy.stone/-/raw/master/src/jhipster-icon.png" title="JHipster" alt="JHipster">
-&nbsp;<img src="https://gitlab.com/timothy.stone/timothy.stone/-/raw/master/src/lucene-icon.png" title="Apache Lucene" alt="Apache Lucene">
-&nbsp;<img src="https://gitlab.com/timothy.stone/timothy.stone/-/raw/master/src/maven-icon.png" title="Apache Maven" alt="Apache Maven">
-&nbsp;<img src="https://gitlab.com/timothy.stone/timothy.stone/-/raw/master/src/netbeans-icon.png" title="NetBeans" alt="NetBeans">
-&nbsp;<img src="https://gitlab.com/timothy.stone/timothy.stone/-/raw/master/src/node-icon.png" alt="Node and NPM">
-&nbsp;<img src="https://gitlab.com/timothy.stone/timothy.stone/-/raw/master/src/spring-icon.png" title="Spring and Spring Boot" alt="Spring and Spring Boot">
-&nbsp;<img src="https://gitlab.com/timothy.stone/timothy.stone/-/raw/master/src/tomcat-icon.png" title="Apache Tomcat" alt="Apache Tomcat">
-&nbsp;<img src="https://gitlab.com/timothy.stone/timothy.stone/-/raw/master/src/zsh-icon.png" title="Shell (`zsh`)" alt="Shell (`zsh`)">
+<img src="https://gitlab.com/timothystone/timothystone/-/raw/master/src/main/resources/angular-icon.png" title="AngularJS and Angular" alt="AngularJS and Angular">
+&nbsp;<img src="https://gitlab.com/timothystone/timothystone/-/raw/master/src/main/resources/apache-icon.png" title="Apache HTTPD" alt="Apache HTTPD">
+&nbsp;<img src="https://gitlab.com/timothystone/timothystone/-/raw/master/src/main/resources/git-icon.png" title="Git" alt="Git">
+&nbsp;<img src="https://gitlab.com/timothystone/timothystone/-/raw/master/src/main/resources/gitlab-icon.png" title="GitLab and GitLab CI" alt="GitLab and GitLab CI">
+&nbsp;<img src="https://gitlab.com/timothystone/timothystone/-/raw/master/src/main/resources/hibernate-icon.png" title="Hibernate" alt="Hibernate">
+&nbsp;<img src="https://gitlab.com/timothystone/timothystone/-/raw/master/src/main/resources/intellij-icon.png" title="IntelliJ" alt="IntelliJ">
+&nbsp;<img src="https://gitlab.com/timothystone/timothystone/-/raw/master/src/main/resources/java-icon.png" title="Java" alt="Java">
+&nbsp;<img src="https://gitlab.com/timothystone/timothystone/-/raw/master/src/main/resources/javascript-icon.png" title="JavaScript" alt="JavaScript"><br>
+&nbsp;<img src="https://gitlab.com/timothystone/timothystone/-/raw/master/src/main/resources/jhipster-icon.png" title="JHipster" alt="JHipster">
+&nbsp;<img src="https://gitlab.com/timothystone/timothystone/-/raw/master/src/main/resources/lucene-icon.png" title="Apache Lucene" alt="Apache Lucene">
+&nbsp;<img src="https://gitlab.com/timothystone/timothystone/-/raw/master/src/main/resources/maven-icon.png" title="Apache Maven" alt="Apache Maven">
+&nbsp;<img src="https://gitlab.com/timothystone/timothystone/-/raw/master/src/main/resources/netbeans-icon.png" title="NetBeans" alt="NetBeans">
+&nbsp;<img src="https://gitlab.com/timothystone/timothystone/-/raw/master/src/main/resources/node-icon.png" alt="Node and NPM">
+&nbsp;<img src="https://gitlab.com/timothystone/timothystone/-/raw/master/src/main/resources/spring-icon.png" title="Spring and Spring Boot" alt="Spring and Spring Boot">
+&nbsp;<img src="https://gitlab.com/timothystone/timothystone/-/raw/master/src/main/resources/tomcat-icon.png" title="Apache Tomcat" alt="Apache Tomcat">
+&nbsp;<img src="https://gitlab.com/timothystone/timothystone/-/raw/master/src/main/resources/zsh-icon.png" title="Shell (`zsh`)" alt="Shell (`zsh`)">
 </p>
 
 ## Career
