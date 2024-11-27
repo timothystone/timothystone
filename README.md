@@ -4,7 +4,7 @@
 
 Hello! :beers:
 
-Some call me... Tim.
+*There are some that call me... Tim.*
 
 My typical prologue reads:
 
@@ -39,7 +39,7 @@ Highlights,  _always_ mastering, _always_ expanding...
 
 :clapper: Film/TV/Print Location Scout/Manager and Producer ([IMDB](https://www.imdb.com/name/nm0832205/))<br>
 :credit_card: 15 years in Consumer Credit Card customer acquisition and servicing as a web application and solution architect<br>
-🛡️ Solution architect in Excess & Surplus (E&S) insurance
+🛡️ Solution Architect in Small Business Banking, formerly in E&S insurance.
 
 ## Hobbies
 
