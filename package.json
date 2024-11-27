@@ -7,22 +7,27 @@
   "scripts": {
     "husky:install": "npx husky install"
   },
-  "name": "commit-controls",
-  "description": "A project coupling Maven Checkstyle pre-commit Git hooks and Conventional Commits via commitlint in Javaland.",
-  "version": "1.0.4",
+  "name": "timothy-stone",
+  "description": "A profile README project for detailed user meta-data with finese.",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/another15y/commit-controls.git"
+    "url": "https://gitlab.com/timothystone/timothystone.git"
   },
   "keywords": [
     "commitlint",
+    "gitlab",
+    "github",
     "husky",
-    "java"
+    "java",
+    "profile",
+    "readme"
+
   ],
   "author": "Timothy Stone <gitlab@petmystone.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://gitlab.com/another15y/commit-controls/-/issues"
+    "url": "https://gitlab.com/timothystone/timothystone/-/issues"
   },
-  "homepage": "https://gitlab.com/another15y/commit-controls"
+  "homepage": "https://gitlab.com/timothystone/timothystone"
 }
